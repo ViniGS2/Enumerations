@@ -50,5 +50,6 @@ public class Sistema {
         }
         System.out.println("OrderSummary");
         order.printSummary();
+        sc.close();
     }
 }
